@@ -1,0 +1,211 @@
+id: PC0394549
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG03612
+  instance_id: http://purl.bdrc.io/resource/IE00KG03612
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཀུན་བཟང་ཉི་མ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P6610
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    a2a6442953894f84a4c7d4376c8e828d:
+      title: པོད ༢༧་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 27
+      base_file: UT00KG03612_I00KG03651_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD23B32C929ACAAC8
+      image_group: I00KG03651
+      quality: Low
+    741a319e0d8646d59a7de6ca5c695f9a:
+      title: པོད ༢༢་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 22
+      base_file: UT00KG03612_I00KG03646_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCE6601233F183F39
+      image_group: I00KG03646
+      quality: Low
+    789281fa15f84016b09cd115ec861ead:
+      title: པོད ༣་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 3
+      base_file: UT00KG03612_I00KG03627_0000.txt
+      reference: http://purl.bdrc.io/resource/VL4280C973EC24ABA4
+      image_group: I00KG03627
+      quality: Low
+    15098f8c0a634a049adf61de23c6ea55:
+      title: པོད ༡༡་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 11
+      base_file: UT00KG03612_I00KG03635_0000.txt
+      reference: http://purl.bdrc.io/resource/VL1CB2E86F58D64E36
+      image_group: I00KG03635
+      quality: Low
+    d660712bb7844f90b14098fca2e44cc5:
+      title: པོད ༩་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 9
+      base_file: UT00KG03612_I00KG03633_0000.txt
+      reference: http://purl.bdrc.io/resource/VL34A900E7BEDE0F8E
+      image_group: I00KG03633
+      quality: Low
+    f6ebf12a43804a2d999732b2d35f39ed:
+      title: པོད ༡༦་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 16
+      base_file: UT00KG03612_I00KG03640_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBF354133A2ABCB08
+      image_group: I00KG03640
+      quality: Low
+    79ab475deefd4c0fb868cd704508f755:
+      title: པོད ༢༡་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 21
+      base_file: UT00KG03612_I00KG03645_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF20F42362E063F93
+      image_group: I00KG03645
+      quality: Low
+    cc13a75a69b140aca70d3dfbd9e4fdf1:
+      title: པོད ༨་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 8
+      base_file: UT00KG03612_I00KG03632_0000.txt
+      reference: http://purl.bdrc.io/resource/VL88DD7E47528CC937
+      image_group: I00KG03632
+      quality: Low
+    b8e8c9d36ac743b9aab457e4b02ee2a5:
+      title: པོད ༡༨་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 18
+      base_file: UT00KG03612_I00KG03642_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5680B5302C2B2563
+      image_group: I00KG03642
+      quality: Low
+    012eecd26f0d41c1a3706c6ca45542b8:
+      title: པོད ༢༣་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 23
+      base_file: UT00KG03612_I00KG03647_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5BCF943C9883DAD5
+      image_group: I00KG03647
+      quality: Low
+    c2c7ff4c833440478da7b2a8fac9840b:
+      title: པོད ༥་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 5
+      base_file: UT00KG03612_I00KG03629_0000.txt
+      reference: http://purl.bdrc.io/resource/VL88CA67154C178831
+      image_group: I00KG03629
+      quality: Low
+    f48ed869490f444bae823847b5df6072:
+      title: པོད ༡༢་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 12
+      base_file: UT00KG03612_I00KG03636_0000.txt
+      reference: http://purl.bdrc.io/resource/VL68B4717E89EADB70
+      image_group: I00KG03636
+      quality: Low
+    bfc9a96e820c433b8c197106e82d3e0e:
+      title: པོད ༡་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 1
+      base_file: UT00KG03612_I00KG03625_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA8ECE786BEDB56CF
+      image_group: I00KG03625
+      quality: Low
+    d7babe214a6b4ee9952bf1954448d45c:
+      title: པོད ༡༩་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 19
+      base_file: UT00KG03612_I00KG03643_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBA44C5C913D1141B
+      image_group: I00KG03643
+      quality: Low
+    514768266bc04b3d98b5af212bb96036:
+      title: པོད ༢༠་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 20
+      base_file: UT00KG03612_I00KG03644_0000.txt
+      reference: http://purl.bdrc.io/resource/VL56A65B02BB83053E
+      image_group: I00KG03644
+      quality: Low
+    c744bb6cb75f42efad57b2f74e56707e:
+      title: པོད ༢་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 2
+      base_file: UT00KG03612_I00KG03626_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2137D137D2080DAA
+      image_group: I00KG03626
+      quality: Low
+    6613e4a8b8044dc8a4b3b02c8e6837c4:
+      title: པོད ༡༠་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 10
+      base_file: UT00KG03612_I00KG03634_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2615AA19EE98D211
+      image_group: I00KG03634
+      quality: Low
+    622c96152d294ab98791c5cf6d6d5f15:
+      title: པོད ༤་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 4
+      base_file: UT00KG03612_I00KG03628_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC09AE0CD6BBB4691
+      image_group: I00KG03628
+      quality: Low
+    adb8418f1eaf481f9abfeac998ac018e:
+      title: པོད ༡༧་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 17
+      base_file: UT00KG03612_I00KG03641_0000.txt
+      reference: http://purl.bdrc.io/resource/VLDC0BFEBEAFF5A6CC
+      image_group: I00KG03641
+      quality: Low
+    acdf2deda7aa43b2866a91a92f87b0ba:
+      title: པོད ༢༥་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 25
+      base_file: UT00KG03612_I00KG03649_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5F26DCE26D52D2F7
+      image_group: I00KG03649
+      quality: Low
+    dd2943a6a54346e797854514e5c4cd1f:
+      title: པོད ༡༣་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 13
+      base_file: UT00KG03612_I00KG03637_0000.txt
+      reference: http://purl.bdrc.io/resource/VL13F7899B3C8A3846
+      image_group: I00KG03637
+      quality: Low
+    8b4448c58ee24349995bf4543979d8d5:
+      title: པོད ༧་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 7
+      base_file: UT00KG03612_I00KG03631_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBEDE50586D7E758E
+      image_group: I00KG03631
+      quality: Low
+    95c9e019f46540ca916ea6eb55d6fd1a:
+      title: པོད ༢༤་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 24
+      base_file: UT00KG03612_I00KG03648_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC0E22EDC071ADB80
+      image_group: I00KG03648
+      quality: Low
+    19d24b89c5f74b6c8d709e835f7c1ba3:
+      title: པོད ༢༦་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 26
+      base_file: UT00KG03612_I00KG03650_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5C647C1D46C467C4
+      image_group: I00KG03650
+      quality: Low
+    77b4a47b4cb2481294bf874b3d7e838b:
+      title: པོད ༦་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 6
+      base_file: UT00KG03612_I00KG03630_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC1C48BF633F51B22
+      image_group: I00KG03630
+      quality: Low
+    9b0cb6096cda41a7a56afa35301357dd:
+      title: པོད ༡༤་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 14
+      base_file: UT00KG03612_I00KG03638_0000.txt
+      reference: http://purl.bdrc.io/resource/VL069DD01396167870
+      image_group: I00KG03638
+      quality: Low
+    1db52167336444b2981ea79b990daf20:
+      title: པོད ༡༥་གསུང་འབུམ། ཀུན་བཟང་ཉི་མ
+      volume_number: 15
+      base_file: UT00KG03612_I00KG03639_0000.txt
+      reference: http://purl.bdrc.io/resource/VL24AD6D59682D8F76
+      image_group: I00KG03639
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W00KG03612
+  - http://purl.bdrc.io/resource/MW00KG03612
+  ocr_software: Namsel
+created_at: '2021-12-24T16:59:39.308594'
+last_modified_at: '2021-12-24T16:59:39.308609'
